@@ -1,4 +1,3 @@
-import { time } from "console";
 import React from "react";
 
 function List() {
